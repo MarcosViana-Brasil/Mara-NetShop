@@ -1,6 +1,9 @@
 # Mara NetShop - Ecommerce
 > Codigo fonte de loja de ecommerce REACT/NODE
 
+## DEMO:  https://mara-netshop.herokuapp.com/    
+### pode usar o usuario: user@teste.com / senha: 123456 (ou fazer o registro com usuário de preferência)
+
 ## Author: Marcos Viana ( baseado no exemplo Dev AT: https://youtu.be/AjItjNc0bHA )
 
 ## Install dependencies for server
